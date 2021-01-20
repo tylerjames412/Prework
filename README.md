@@ -29,11 +29,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-ezgif.com-video-to-gif
+https://ezgif.com/video-to-gif/ezgif-7-2d67232f9461.mov
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A app created to calculate the tip with percentages of 15, 18, and 20.
 
 ## License
 
