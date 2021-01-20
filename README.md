@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://ezgif.com/video-to-gif/ezgif-7-2d67232f9461.mov
+![x](https://i.imgur.com/F68UTmW.gif)
+
 
 ## Notes
 
