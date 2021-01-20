@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x](https://i.imgur.com/F68UTmW.gif)
+(https://i.imgur.com/F68UTmW.gif)
 
 
 ## Notes
